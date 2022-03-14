@@ -10,6 +10,9 @@ Create a search function with the flag -e.
 './hw3'
 
 ## Notes
+Unsure of why c file saved as cpp instead of c, but still ran on
+my end.
+
 Remote debugger started giving me issues and would not let me log in.
 Could not figure out how to specify the file/directory, code worked
 correctly but would only run exec on the hw3.c file.
